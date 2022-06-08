@@ -1,4 +1,7 @@
 # Feign Client
+
+[Spring Cloud Feign в качестве клиента HTTP для вызова удаленной службы HTTP](https://russianblogs.com/article/298473970)
+ 
     это декларативный, шаблонный http-client
 
 - генерирует API запросы
