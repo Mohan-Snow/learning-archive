@@ -1,6 +1,6 @@
-#*"Learning Archive Proj."*
+# *"Learning Archive Proj."*
 
-#INDEX:
+# INDEX:
 
 -----
 
