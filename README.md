@@ -8,7 +8,7 @@
 
 ---
 ### 2. [SQL/Databases](root/SQL/basics.md)
-*2.1 [Group By](root/SQL/group-by.md)*
+*2.1 [SELECT DATA](root/SQL/select-data.md)*
 
 ---
 ### 3. [Spring framework](root/spring/basics.md)
