@@ -53,7 +53,7 @@
 | genre_id   | INT PRIMARY KEY AUTO_INCREMENT |
 | name_genre | VARCHAR(30)                    | 
 
-```
+```sql
 CREATE TABLE genre(genre_id INT PRIMARY KEY AUTO_INCREMENT, name_genre VARCHAR(30));
 ```
 
@@ -75,12 +75,12 @@ CREATE TABLE genre(genre_id INT PRIMARY KEY AUTO_INCREMENT, name_genre VARCHAR(3
 - список значений через запятую, которые заносятся в соответствующие поля, при этом текстовые значения заключаются в кавычки, числовые значения записываются без кавычек, в качестве разделителя целой и дробной части используется точка;
 - закрывающая скобка «)».
 
-```
+```sql
 INSERT INTO таблица(поле1, поле2)
 VALUES (значение1, значение2);
 ```
 
-```
+```sql
 INSERT INTO таблица(поле1, поле2)
 VALUES (значение1, значение2), 
 (значение3, значение4);
