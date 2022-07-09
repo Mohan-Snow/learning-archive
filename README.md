@@ -18,3 +18,6 @@
 
 ---
 ### 5. [Kafka - message broker](root/kafka/basics.md)
+
+---
+### 6. [Go - programming language](root/GO-lang/basics.md)
