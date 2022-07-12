@@ -217,9 +217,42 @@ myType.A = 3
 
 ```go
 myType := MyType{1, 2}
-p := &myType
+p := &myType                // fmt.Println(p) -> console output gonna be &{1, 2}
 p.X = 4
 ```
+
+### Struct Literals
+Явная и неявная инициализация поля в структуре.
+
+```go
+var (
+  myType1 = MyType{A: 1}        // B:0 -> B is implicitly set to 0
+  myType2 = MyType{}            // A:0, B:0 -> A,B are implicitly set to 0
+  myType3 = MyType{A: 3, B: 4}  // A:3, B:4 -> A,B are explicitly set to 3,4
+)
+```
+
+---
+
+## Массивы (***Arrays***)
+
+---
+
+Индексированная последовательность определенного типа.  
+Размер ***фиксирован***!
+
+```go
+var arr [2]string
+arr[0] = "Hello"
+arr[1] = "World"
+```
+
+С предустановленными значениями
+```go
+numbers := [4]int{0, 1, 2, 3}   // fmt.Println(numbers) -> console output gonna be [0 1 2 3]
+```
+
+---
 
 
 ### [to main page](../../README.md)
