@@ -8,7 +8,7 @@
 
 ---
 ### 2. [SQL/Databases](root/SQL/basics.md)
-*2.1 [SELECT DATA](root/SQL/select-data.md)*
+*2.1 [Select Data](root/SQL/select-data.md)*
 
 ---
 ### 3. [Spring framework](root/spring/basics.md)
@@ -21,3 +21,5 @@
 
 ---
 ### 6. [Go - programming language](root/GO-lang/basics.md)
+ *6.1 [Basic Language Tools](root/GO-lang/basic-language-tools.md)*     
+ *6.2 [Slices](root/GO-lang/slices.md)*
