@@ -22,4 +22,5 @@
 ---
 ### 6. [Go - programming language](root/GO-lang/basics.md)
  *6.1 [Basic Language Tools](root/GO-lang/basic-language-tools.md)*     
- *6.2 [Slices](root/GO-lang/slices.md)*
+ *6.2 [Slices](root/GO-lang/slices.md)*  
+ *6.3 [Methods and functions](root/GO-lang/methods-and-functions.md)*
